@@ -1,6 +1,6 @@
-spam = ['carai', 'coroi', 'karai']
+spam = ['apple', 'pear', 'pineapple']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-what = ['asda', 'dasdas', 'daaa', 'akakakak', 'kkkkkkkk', 1132, 'awaart']
+what = ['asda', 'dasdas', 'daaa', 'akakakak', 'abc', 1132, 'awaart']
 
 
 def comma(lst):
